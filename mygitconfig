@@ -1,0 +1,9 @@
+[user]
+	name = Kinesh Satiya 
+	email = kineshsatiya@gmail.com
+[core]
+	excludesfile = /Users/kinesh/.gitignore_global
+[color]
+	ui = always
+[push]
+	default = simple
